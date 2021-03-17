@@ -1,0 +1,94 @@
+body{
+    position: relative;
+    top: -60px;
+    background-image: url(../IMG/imagen2.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Akaya Telivigala', cursive;
+    color: white;
+}
+
+p{
+    position: relative;
+    top: -70px;
+    font-size: 25px;
+}
+
+h1{
+    position: absolute;
+    font-size: 70px;
+    text-align: left;
+    padding-top: 70px;
+    top: -50px;
+}
+
+h2{
+    position: absolute;
+    margin: auto;
+    font-size: 45px;
+    text-align: left;
+    padding-top: 80px;
+    top: 80px;
+}
+
+.AdamSmith{
+    margin: auto;
+    text-align: right;
+    padding-top: 50px;
+    top: -75px;
+}
+
+.main_header{
+    width: 100%;
+    height: -600px;
+    z-index: 101;
+    font-size: 23px;
+    font-family: segoe print;
+    text-align: center;
+    margin-top: -100px;
+}
+
+.menu ul{
+    padding: 50px;
+    margin: 10px;
+    display: inline-flex;
+    list-style: none;
+}
+
+.menu li{
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+.menu li a:hover{
+    color: red;
+    text-decoration: overline;
+}
+
+.menu li a{
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+}
+
+footer{
+     width: 100%;
+}
+
+.redes{
+    text-align: center;
+    display: inline-flex;
+    margin: 70px 500px;
+    background-color: black;
+    font-family: cursive;
+}
+
+.textofooter{
+    padding-top: 5PX;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 10px;    
+    height: 1px;   
+}

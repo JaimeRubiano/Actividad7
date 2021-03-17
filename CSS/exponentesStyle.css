@@ -1,0 +1,19 @@
+body{
+    position: relative;
+    text-align: center;
+    background-image: url(../IMG/imagen2.jpg);
+    background-size: cover;
+    font-family: 'Akaya Telivigala', cursive;
+    color: white;
+}
+
+p{
+    position: relative;
+    text-align: left;
+    font-size: 25px;
+}
+
+h1{
+    font-size: 35px;
+    padding-top: 10px;
+}
